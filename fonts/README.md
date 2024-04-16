@@ -1,3 +1,6 @@
+Download the refind-bin file from sourceforge: https://sourceforge.net/projects/refind/
+-------------
+
 From `refind-bin-0.14.0.2/fonts/README.txt`
 -------------------
 
